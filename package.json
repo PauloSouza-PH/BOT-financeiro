@@ -1,0 +1,25 @@
+{
+  "name": "bot-financeiro",
+  "version": "1.0.0",
+  "description": "BOT para automatização de operações financeiras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloSouza-GV/BOT-financeiro.git"
+  },
+  "author": "PauloSouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloSouza-GV/BOT-financeiro/issues"
+  },
+  "homepage": "https://github.com/PauloSouza-GV/BOT-financeiro#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongoose": "^5.11.13",
+    "node-cron": "^2.0.3",
+    "nodemon": "^2.0.7"
+  }
+}
